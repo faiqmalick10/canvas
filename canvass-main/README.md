@@ -1,6 +1,3 @@
-Apologies for the misunderstanding! Here's everything in **one complete markdown block**, ready to copy and paste:
-
-markdown
 # Interactive Drawing Canvas with ReactJS
 
 An interactive drawing canvas built with **ReactJS** that allows users to draw shapes, freehand, and save their creations using **local storage**. The application is styled with **Tailwind CSS** for a modern and responsive user interface.
@@ -65,5 +62,3 @@ To get started with the project locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
-
-Now you can simply copy and paste this entire markdown into your `README.md` file!
